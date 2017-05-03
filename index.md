@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages "ホンダカーズ埼玉　新大宮バイパス店へようこそ!!"
 
 You can use the [editor on GitHub](https://github.com/HCsai12/hm2017test.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
