@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages "ホンダカーズ埼玉　新大宮バイパス店へようこそ!!"
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HCsai12/hm2017test.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+文章打ってしっかり反応するのかテスト
 
 ### Markdown
 
@@ -27,6 +29,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+リンクできるのかテスト[JAPAN JAM 2017](http://japanjam.jp/2017/timetable).
 
 ### Jekyll Themes
 
