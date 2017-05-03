@@ -38,7 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 リンクできるのかテスト[JAPAN JAM 2017](http://japanjam.jp/2017/timetable).
 
-###各種情報
+###　各種情報
 ```markdown
 - Bulleted
 - List
@@ -51,6 +51,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 5. [新車最新情報はこちら](http://japanjam.jp/2017/timetable).
 
 6. [どうぞ口コミをご記入くださいませ、、](http://japanjam.jp/2017/timetable).
+```
 
 ### Jekyll Themes
 
